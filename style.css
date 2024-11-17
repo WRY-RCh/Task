@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+    
+}
+
+.row {
+    place-items: center;
+    
+}
+    
+
+.box {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    height: 100px; 
+
+}
+
+.Purple {
+    background-color: #7e84fc; 
+    
+}
+
+.Green {
+    background-color: #15a46e; 
+
+}
+
+.Orange {
+    background-color: #e46f00;
+
+}
+
